@@ -1,0 +1,5 @@
+As there is not trash bin in linux, (you can't restore files once deleted)
+so better add alias for 'rm' commd
+
+alias rm='rm -i'
+-i means interactive, it'll first ask yes/no 
