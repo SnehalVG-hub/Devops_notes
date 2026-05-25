@@ -1,5 +1,8 @@
-As there is not trash bin in linux, (you can't restore files once deleted)
+## As there is not trash bin in linux, (you can't restore files once deleted)
 so better add alias for 'rm' commd
 
-alias rm='rm -i'
+# alias rm='rm -i'
 -i means interactive, it'll first ask yes/no 
+
+## > means redirect and >> append 
+> overwrite the file content, means previous contest goes while >> append the existing file content, add/append 'after'the existing content
